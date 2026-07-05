@@ -1,5 +1,9 @@
 # 🏦 Banking Deposit Run Risk Early Warning System
 
+## 🌐 Live Dashboard
+
+👉 https://deposit-run-risk-early-warning-system-d2faso5emwemre3cxvfvn6.streamlit.app/
+
 An end-to-end Machine Learning project that predicts customer deposit runoff risk and estimates **Deposit at Risk** to support liquidity risk monitoring, customer prioritisation, and proactive retention strategies.
 
 ---
